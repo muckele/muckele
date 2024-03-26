@@ -26,6 +26,13 @@
   <a href="mailto: muckele@gmail.com">
     <img src="https://camo.githubusercontent.com/c95cb81adf21276b96cac79fd6b4c5e8cd7904ed3b000c9213df061821afc617/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d4431343833363f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;">
   </a>
+</div>
+<hr></hr>
+<div align="center">
+  <h3>Comfortable Working In: </h3>
+  <a href="#"><img src="https://camo.githubusercontent.com/a852e5c7c1d3d28444397c8c591ed66903eb5285c32dfa09a0da847548395cc4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57696e646f77732d3030373844363f7374796c653d666c61742d737175617265266c6f676f3d57696e646f7773266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&amp;logo=Windows&amp;logoColor=white" style="max-width: 100%;">  </a>
+  <a href="#"><img src="https://camo.githubusercontent.com/d40bf766ae8d1909ea2bbf1e2bfebbffd65da011e1b1397bdf53a5c4ecbb64e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61632532306f732d3030303030303f7374796c653d666c61742d73717561726526666f722d7468652d6261646765266c6f676f3d6d61636f73266c6f676f436f6c6f723d463046304630" data-canonical-src="https://img.shields.io/badge/mac%20os-000000?style=flat-square&amp;for-the-badge&amp;logo=macos&amp;logoColor=F0F0F0" style="max-width: 100%;">  </a>
+
 
 
 
