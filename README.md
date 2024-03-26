@@ -11,7 +11,7 @@
 <div align="center">
   <h2>About Me</h2>
 </div>
-<h3>As a versatile and results-driven Full Stack Computer Engineer, I combine a deep understanding of front-end and back-end technologies to deliver innovative and scalable solutions. With a proven track record of successfully navigating complex projects, I excel in designing and implementing robust applications that optimize user experiences and meet business objectives. My proficiency spans a wide range of programming languages, frameworks, and databases, allowing me to adapt seamlessly to evolving technological landscapes. </h3>
+<h3>As a versatile and results-driven Full Stack Computer Engineer, I combine a deep understanding of front-end and back-end technologies to deliver innovative and scalable solutions. With a proven track record of successfully navigating complex projects, I excel in designing and implementing robust applications that optimize user experiences and meet business objectives. My proficiency spans various programming languages, frameworks, and databases, allowing me to adapt seamlessly to evolving technological landscapes. </h3>
 <div align="center">
   <h3>Contact Information</h3>
   <a href="https://muckele.biz/" rel="noFollow">
