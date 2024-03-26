@@ -2,7 +2,10 @@
 [![Mathew's GitHub stats](https://github-readme-stats.vercel.app/api?username=muckele&hide=stars,issues&show_icons=true)](https://github.com/muckele/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muckele)](https://github.com/muckele/github-readme-stats)
 <a href="https://github.com/muckele/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=muckele" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=muckele&hide=stars,issues&show_icons=true" />
+</a>
+<a href="https://github.com/muckele/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muckele&show_icons=true&layout=compact&langs_count=8&card_width=320" />
 </a>
 <hr style="border-top: 2px solid black;">
 <div align="center">
