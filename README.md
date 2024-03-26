@@ -1,6 +1,6 @@
 ![alt text](./assets/images%20/4b16838e-015a-4c62-bac7-af93efcaab1d.jpeg)
 <a href="https://github.com/muckele/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=muckele&hide=stars,issues&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=muckele&hide=stars,issues" />
 </a>
 <a href="https://github.com/muckele/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muckele&layout=compact&langs_count=8&card_width=320" />
