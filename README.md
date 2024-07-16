@@ -13,6 +13,7 @@
 </div>
 <h3>As a dedicated and versatile Full Stack Software Engineer, I leverage my deep understanding of both front-end and back-end technologies to create innovative and scalable solutions. After transitioning from a successful career in corporate sales, I completed an intensive Software Engineering Immersive program at General Assembly. I now excel in designing and implementing robust applications that enhance user experiences and meet business objectives.
   <br />
+  <br />
 During my career shift, I took some time off to care for my newborn son, which further fueled my passion for problem-solving and efficiency in technology. My proficiency spans various programming languages, frameworks, and databases, allowing me to adapt seamlessly to evolving technological landscapes.
 
 
