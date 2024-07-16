@@ -11,10 +11,10 @@
 <div align="center">
   <h2>About Me</h2>
 </div>
-<h3>As a dedicated and versatile Full Stack Software Engineer, I leverage my deep understanding of both front-end and back-end technologies to create innovative and scalable solutions. After transitioning from a successful career in corporate sales, I completed an intensive Software Engineering Immersive program at General Assembly. I now excel in designing and implementing robust applications that enhance user experiences and meet business objectives.
+<h3>I'm a Full Stack Software Engineer with a background in corporate sales. After completing an intensive Software Engineering Immersive program at General Assembly, I've transitioned to tech, developing robust applications that enhance user experiences. My skills include JavaScript, HTML, CSS, Node, Python, SQL, MongoDB, React, Express.js, and Django. 
   <br />
   <br />
-During my career shift, I took some time off to care for my newborn son, which further fueled my passion for problem-solving and efficiency in technology. My proficiency spans various programming languages, frameworks, and databases, allowing me to adapt seamlessly to evolving technological landscapes.
+I took some time off to care for my newborn son and am now eager to bring my technical and problem-solving skills to new challenges.
 
 
  </h3>
